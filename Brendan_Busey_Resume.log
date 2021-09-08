@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  4 APR 2021 19:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  7 SEP 2021 20:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -218,35 +218,35 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 312.
+ut line 324.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 312.
+(Font)              <7> on input line 324.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 312.
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 312.
+(Font)              <5> on input line 324.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 324.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 312.
+(Font)              size <5> substituted on input line 324.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 312.
+(Font)              size <5> substituted on input line 324.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 312.
+(Font)              size <5> substituted on input line 324.
 
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7.69997> on input line 312.
+(Font)              <7.69997> on input line 324.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5.5> on input line 312.
+(Font)              <5.5> on input line 324.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 312.
+(Font)              <6> on input line 324.
 [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
@@ -259,11 +259,11 @@ LaTeX Font Warning: Size substitutions with differences
 Here is how much of TeX's memory you used:
  3724 strings out of 480608
  55648 string characters out of 5903631
- 314857 words of memory out of 5000000
+ 319418 words of memory out of 5000000
  19597 multiletter control sequences out of 15000+600000
  541436 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,8n,45p,345b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,8n,45p,379b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometw
 o.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/fontawesome/FontAw
 esome.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cm
@@ -278,7 +278,7 @@ usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></us
 r/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr
 /local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on Brendan_Busey_Resume.pdf (1 page, 160453 bytes).
+Output written on Brendan_Busey_Resume.pdf (1 page, 161051 bytes).
 PDF statistics:
  61 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
